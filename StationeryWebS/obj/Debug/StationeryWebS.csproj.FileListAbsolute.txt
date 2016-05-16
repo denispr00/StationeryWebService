@@ -1,0 +1,14 @@
+C:\Users\Denis\Desktop\visual studio 2015\Projects\StationeryWebS\StationeryWebS\bin\StationeryWebS.dll.config
+C:\Users\Denis\Desktop\visual studio 2015\Projects\StationeryWebS\StationeryWebS\bin\StationeryWebS.dll
+C:\Users\Denis\Desktop\visual studio 2015\Projects\StationeryWebS\StationeryWebS\bin\StationeryWebS.pdb
+C:\Users\Denis\Desktop\visual studio 2015\Projects\StationeryWebS\StationeryWebS\bin\Newtonsoft.Json.dll
+C:\Users\Denis\Desktop\visual studio 2015\Projects\StationeryWebS\StationeryWebS\bin\System.Net.Http.Formatting.dll
+C:\Users\Denis\Desktop\visual studio 2015\Projects\StationeryWebS\StationeryWebS\bin\System.Web.Http.dll
+C:\Users\Denis\Desktop\visual studio 2015\Projects\StationeryWebS\StationeryWebS\bin\System.Web.Http.WebHost.dll
+C:\Users\Denis\Desktop\visual studio 2015\Projects\StationeryWebS\StationeryWebS\bin\Newtonsoft.Json.xml
+C:\Users\Denis\Desktop\visual studio 2015\Projects\StationeryWebS\StationeryWebS\bin\System.Net.Http.Formatting.xml
+C:\Users\Denis\Desktop\visual studio 2015\Projects\StationeryWebS\StationeryWebS\bin\System.Web.Http.xml
+C:\Users\Denis\Desktop\visual studio 2015\Projects\StationeryWebS\StationeryWebS\bin\System.Web.Http.WebHost.xml
+C:\Users\Denis\Desktop\visual studio 2015\Projects\StationeryWebS\StationeryWebS\obj\Debug\StationeryWebS.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Desktop\visual studio 2015\Projects\StationeryWebS\StationeryWebS\obj\Debug\StationeryWebS.dll
+C:\Users\Denis\Desktop\visual studio 2015\Projects\StationeryWebS\StationeryWebS\obj\Debug\StationeryWebS.pdb
